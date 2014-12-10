@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlockLib/Flocking.fs">
+    <Files>
+      <File FileName="FlockLib/Script.fsx" Line="20" Column="20" />
+      <File FileName="../../Testsharp/TheLib/TheLib/Truck.fs" Line="1" Column="1" />
+      <File FileName="../../Testsharp/TheLib/TheLib/UnityMagic.fs" Line="1" Column="1" />
+      <File FileName="../../Testsharp/TheLib/TheLib/Json.fs" Line="1" Column="1" />
+      <File FileName="../../Testsharp/TheLib/TheLib/Playground.fsx" Line="1" Column="1" />
+      <File FileName="../../Testsharp/TheLib/TheLib/SmartComponent.fs" Line="1" Column="1" />
+      <File FileName="FlockLib/Flocking.fs" Line="107" Column="107" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

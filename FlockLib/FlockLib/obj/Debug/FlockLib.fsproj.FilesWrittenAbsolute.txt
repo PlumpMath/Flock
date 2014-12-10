@@ -1,0 +1,6 @@
+/Users/erik/Projects/Flock/FlockLib/FlockLib/bin/Debug/mscorlib.dll
+/Users/erik/Projects/Flock/FlockLib/FlockLib/bin/Debug/FlockLib.dll.mdb
+/Users/erik/Projects/Flock/FlockLib/FlockLib/bin/Debug/FlockLib.dll
+/Users/erik/Projects/Flock/FlockLib/FlockLib/obj/Debug/FlockLib.dll
+/Users/erik/Projects/Flock/FlockLib/FlockLib/obj/Debug/FlockLib.dll.mdb
+/Users/erik/Projects/Flock/FlockLib/FlockLib/bin/Debug/UnityEngine.dll

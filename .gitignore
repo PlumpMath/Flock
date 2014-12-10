@@ -1,0 +1,6 @@
+/Library/metadata
+/Library/shadercache
+
+*.log
+
+*.mdb
